@@ -10,5 +10,4 @@ npx tailwindcss build src/css/application.css -o assets/application.css.liquid
 ## Deploy newly built files to Shopify store
 theme deploy --allow-live
 
-
-##Happy Developing!
+Happy Developing! (∩｀-´)⊃━☆ﾟ.*・｡ﾟ
