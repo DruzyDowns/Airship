@@ -1,13 +1,13 @@
 {
-  "name": "fleetwood",
+  "name": "airship",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Shopify theme dev environment preloaded with configuration for Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Druzy",
   "license": "ISC",
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
